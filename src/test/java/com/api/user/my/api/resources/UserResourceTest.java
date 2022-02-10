@@ -2,6 +2,7 @@ package com.api.user.my.api.resources;
 
 import com.api.user.my.api.domain.User;
 import com.api.user.my.api.domain.dto.UserDTO;
+import com.api.user.my.api.resources.UserResource;
 import com.api.user.my.api.services.impl.UserServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
